@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HTP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path_BrailleHelloWorld" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Resources\Braille_HelloWorld.txt</Value>
+    </Setting>
+    <Setting Name="Path_BrailleSampleData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Resources\Braille_SampleData.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
